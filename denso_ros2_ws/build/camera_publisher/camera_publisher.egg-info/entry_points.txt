@@ -1,0 +1,4 @@
+[console_scripts]
+camera_node = camera_publisher.camera_node:main
+multi_pose_capture_node = camera_publisher.multi_pose_capture_node:main
+

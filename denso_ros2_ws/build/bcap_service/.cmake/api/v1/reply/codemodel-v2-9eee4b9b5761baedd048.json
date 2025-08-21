@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-6ade2618ef796f24920e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "bcap_service",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bcap_service::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bcap_service-be221ce9dd32de58504e.json",
+					"name" : "bcap_service",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bcap_service_exec::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bcap_service_exec-a0145bd04f87306f53a7.json",
+					"name" : "bcap_service_exec",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bcap_service_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bcap_service_uninstall-0adc8b40232377c458dd.json",
+					"name" : "bcap_service_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-03b1b8e597e04d5e3361.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/isg/workspace/denso_ros2_ws/build/bcap_service",
+		"source" : "/home/isg/workspace/denso_ros2_ws/src/denso_robot_drivers_ros2/bcap_service"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

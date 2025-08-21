@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: camera-publisher
+Version: 0.0.1
+Summary: ROS 2 node to publish camera images using pybcapclient
+Home-page: UNKNOWN
+Maintainer: your_name
+Maintainer-email: leandro.batista@pwc.com
+License: MIT
+Platform: UNKNOWN
+
+UNKNOWN
+

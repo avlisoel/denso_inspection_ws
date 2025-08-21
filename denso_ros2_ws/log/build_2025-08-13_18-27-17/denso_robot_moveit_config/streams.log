@@ -1,0 +1,37 @@
+[0.036s] Invoking command in '/home/isg/workspace/denso_ros2_ws/build/denso_robot_moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/isg/workspace/denso_ros2_ws/install/denso_robot_description_installer:/home/isg/workspace/denso_ros2_ws/install/camera_publisher:/opt/ros/humble /usr/bin/cmake --build /home/isg/workspace/denso_ros2_ws/build/denso_robot_moveit_config -- -j16 -l16
+[0.464s] Invoked command in '/home/isg/workspace/denso_ros2_ws/build/denso_robot_moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/isg/workspace/denso_ros2_ws/install/denso_robot_description_installer:/home/isg/workspace/denso_ros2_ws/install/camera_publisher:/opt/ros/humble /usr/bin/cmake --build /home/isg/workspace/denso_ros2_ws/build/denso_robot_moveit_config -- -j16 -l16
+[0.465s] Invoking command in '/home/isg/workspace/denso_ros2_ws/build/denso_robot_moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/isg/workspace/denso_ros2_ws/install/denso_robot_description_installer:/home/isg/workspace/denso_ros2_ws/install/camera_publisher:/opt/ros/humble /usr/bin/cmake --install /home/isg/workspace/denso_ros2_ws/build/denso_robot_moveit_config
+[0.486s] -- Install configuration: ""
+[0.487s] -- Execute custom install script
+[0.488s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/config/kinematics.yaml
+[0.488s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/config/ompl_planning.yaml
+[0.489s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/rviz/view_robot.rviz
+[0.489s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/srdf/denso_robot.srdf.xacro
+[0.491s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/robots/cobotta/config/denso_robot_controllers.yaml
+[0.491s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/robots/cobotta/config/joint_limits.yaml
+[0.491s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/robots/cobotta/config/moveit_controllers.yaml
+[0.492s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/robots/cobotta/srdf/denso_robot_macro.srdf.xacro
+[0.492s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/robots/hsr065a1_n32/config/denso_robot_controllers.yaml
+[0.492s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/robots/hsr065a1_n32/config/joint_limits.yaml
+[0.492s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/robots/hsr065a1_n32/config/moveit_controllers.yaml
+[0.492s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/robots/hsr065a1_n32/srdf/denso_robot_macro.srdf.xacro
+[0.492s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/robots/vs060/config/denso_robot_controllers.yaml
+[0.492s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/robots/vs060/config/joint_limits.yaml
+[0.493s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/robots/vs060/config/moveit_controllers.yaml
+[0.493s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/robots/vs060/srdf/denso_robot_macro.srdf.xacro
+[0.493s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/ament_index/resource_index/package_run_dependencies/denso_robot_moveit_config
+[0.493s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/ament_index/resource_index/parent_prefix_path/denso_robot_moveit_config
+[0.494s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/environment/ament_prefix_path.sh
+[0.494s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/environment/ament_prefix_path.dsv
+[0.494s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/environment/path.sh
+[0.495s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/environment/path.dsv
+[0.495s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/local_setup.bash
+[0.495s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/local_setup.sh
+[0.495s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/local_setup.zsh
+[0.495s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/local_setup.dsv
+[0.495s] -- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/package.dsv
+[0.501s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/ament_index/resource_index/packages/denso_robot_moveit_config
+[0.502s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/cmake/denso_robot_moveit_configConfig.cmake
+[0.502s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/cmake/denso_robot_moveit_configConfig-version.cmake
+[0.502s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_moveit_config/share/denso_robot_moveit_config/package.xml
+[0.547s] Invoked command in '/home/isg/workspace/denso_ros2_ws/build/denso_robot_moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/isg/workspace/denso_ros2_ws/install/denso_robot_description_installer:/home/isg/workspace/denso_ros2_ws/install/camera_publisher:/opt/ros/humble /usr/bin/cmake --install /home/isg/workspace/denso_ros2_ws/build/denso_robot_moveit_config

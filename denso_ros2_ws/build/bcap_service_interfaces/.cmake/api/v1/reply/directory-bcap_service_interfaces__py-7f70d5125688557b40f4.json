@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "bcap_service_interfaces__py",
+		"source" : "/home/isg/workspace/denso_ros2_ws/build/bcap_service_interfaces/bcap_service_interfaces__py"
+	}
+}

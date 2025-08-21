@@ -1,0 +1,9 @@
+/home/isg/workspace/denso_ros2_ws/src/build/denso_robot_core_interfaces/rosidl_adapter/denso_robot_core_interfaces:action/DriveString.idl
+/home/isg/workspace/denso_ros2_ws/src/build/denso_robot_core_interfaces/rosidl_adapter/denso_robot_core_interfaces:action/DriveValue.idl
+/home/isg/workspace/denso_ros2_ws/src/build/denso_robot_core_interfaces/rosidl_adapter/denso_robot_core_interfaces:action/MoveString.idl
+/home/isg/workspace/denso_ros2_ws/src/build/denso_robot_core_interfaces/rosidl_adapter/denso_robot_core_interfaces:action/MoveValue.idl
+/home/isg/workspace/denso_ros2_ws/src/build/denso_robot_core_interfaces/rosidl_adapter/denso_robot_core_interfaces:msg/ExJoints.idl
+/home/isg/workspace/denso_ros2_ws/src/build/denso_robot_core_interfaces/rosidl_adapter/denso_robot_core_interfaces:msg/Joints.idl
+/home/isg/workspace/denso_ros2_ws/src/build/denso_robot_core_interfaces/rosidl_adapter/denso_robot_core_interfaces:msg/PoseData.idl
+/home/isg/workspace/denso_ros2_ws/src/build/denso_robot_core_interfaces/rosidl_adapter/denso_robot_core_interfaces:srv/ChangeMode.idl
+/home/isg/workspace/denso_ros2_ws/src/build/denso_robot_core_interfaces/rosidl_adapter/denso_robot_core_interfaces:msg/UserIO.idl

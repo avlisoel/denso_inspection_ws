@@ -1,0 +1,18 @@
+[0.987s] Invoking command in '/home/isg/workspace/denso_ros2_ws/build/denso_robot_description_installer': PYTHONPATH=/home/isg/workspace/denso_ros2_ws/build/denso_robot_description_installer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/isg/workspace/denso_ros2_ws/install/denso_robot_description_installer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/isg/workspace/denso_ros2_ws/build/denso_robot_description_installer/build --no-deps symlink_data
+[1.217s] running develop
+[1.348s] running egg_info
+[1.348s] writing denso_robot_description_installer.egg-info/PKG-INFO
+[1.348s] writing dependency_links to denso_robot_description_installer.egg-info/dependency_links.txt
+[1.348s] writing entry points to denso_robot_description_installer.egg-info/entry_points.txt
+[1.348s] writing requirements to denso_robot_description_installer.egg-info/requires.txt
+[1.348s] writing top-level names to denso_robot_description_installer.egg-info/top_level.txt
+[1.350s] reading manifest file 'denso_robot_description_installer.egg-info/SOURCES.txt'
+[1.350s] writing manifest file 'denso_robot_description_installer.egg-info/SOURCES.txt'
+[1.351s] running build_ext
+[1.351s] Creating /home/isg/workspace/denso_ros2_ws/install/denso_robot_description_installer/lib/python3.10/site-packages/denso-robot-description-installer.egg-link (link to .)
+[1.352s] Installing install_robot_description script to /home/isg/workspace/denso_ros2_ws/install/denso_robot_description_installer/lib/denso_robot_description_installer
+[1.352s] Installing update_joint_limits script to /home/isg/workspace/denso_ros2_ws/install/denso_robot_description_installer/lib/denso_robot_description_installer
+[1.352s] 
+[1.352s] Installed /home/isg/workspace/denso_ros2_ws/build/denso_robot_description_installer
+[1.352s] running symlink_data
+[1.372s] Invoked command in '/home/isg/workspace/denso_ros2_ws/build/denso_robot_description_installer' returned '0': PYTHONPATH=/home/isg/workspace/denso_ros2_ws/build/denso_robot_description_installer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/isg/workspace/denso_ros2_ws/install/denso_robot_description_installer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/isg/workspace/denso_ros2_ws/build/denso_robot_description_installer/build --no-deps symlink_data

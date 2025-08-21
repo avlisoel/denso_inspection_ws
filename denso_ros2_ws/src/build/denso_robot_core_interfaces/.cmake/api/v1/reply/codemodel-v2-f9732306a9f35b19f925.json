@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-a988937fcf24bf1b2b10.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "denso_robot_core_interfaces__py",
+					"jsonFile" : "directory-denso_robot_core_interfaces__py-Release-2ea1c276650e59dd02b5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/isg/workspace/denso_ros2_ws/src/build/denso_robot_core_interfaces/denso_robot_core_interfaces__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "denso_robot_core_interfaces",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_denso_robot_core_interfaces_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_denso_robot_core_interfaces_egg-Release-25e1834dfcca1de61253.json",
+					"name" : "ament_cmake_python_build_denso_robot_core_interfaces_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_denso_robot_core_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_denso_robot_core_interfaces-Release-a5d3e10f27d81df4175e.json",
+					"name" : "ament_cmake_python_copy_denso_robot_core_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "denso_robot_core_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-denso_robot_core_interfaces-Release-912cebc49c53e777d502.json",
+					"name" : "denso_robot_core_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "denso_robot_core_interfaces__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-denso_robot_core_interfaces__cpp-Release-fb1b24ef625ce01cbb3c.json",
+					"name" : "denso_robot_core_interfaces__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "denso_robot_core_interfaces__py::@46012ff5a3fe5982d42c",
+					"jsonFile" : "target-denso_robot_core_interfaces__py-Release-503be65f67b0c0d5bc4b.json",
+					"name" : "denso_robot_core_interfaces__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "denso_robot_core_interfaces__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-denso_robot_core_interfaces__rosidl_generator_c-Release-a55e57494b236bd1d5af.json",
+					"name" : "denso_robot_core_interfaces__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "denso_robot_core_interfaces__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-denso_robot_core_interfaces__rosidl_generator_py-Release-2477321e68a7a8b5bb5d.json",
+					"name" : "denso_robot_core_interfaces__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "denso_robot_core_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-denso_robot_core_interfaces__rosidl_typesupport_c-Release-cb76291469027b6f927b.json",
+					"name" : "denso_robot_core_interfaces__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "denso_robot_core_interfaces__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-denso_robot_core_interfaces__rosidl_typesupport_c__pyext-Release-e20145c7f0eaefee1955.json",
+					"name" : "denso_robot_core_interfaces__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "denso_robot_core_interfaces__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-denso_robot_core_interfaces__rosidl_typesupport_cpp-Release-f588fa5abd57ec13cc87.json",
+					"name" : "denso_robot_core_interfaces__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "denso_robot_core_interfaces__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-denso_robot_core_interfaces__rosidl_typesupport_fastrtps_c-Release-16a57aa65f155805cd65.json",
+					"name" : "denso_robot_core_interfaces__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "denso_robot_core_interfaces__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-denso_robot_core_interfaces__rosidl_typesupport_fastrtps_c__pyext-Release-5f3acb45e3bbfc839f70.json",
+					"name" : "denso_robot_core_interfaces__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "denso_robot_core_interfaces__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-denso_robot_core_interfaces__rosidl_typesupport_fastrtps_cpp-Release-611ecd691f13291c7d2b.json",
+					"name" : "denso_robot_core_interfaces__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "denso_robot_core_interfaces__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-denso_robot_core_interfaces__rosidl_typesupport_introspection_c-Release-f45a69a34af18039c181.json",
+					"name" : "denso_robot_core_interfaces__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "denso_robot_core_interfaces__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-denso_robot_core_interfaces__rosidl_typesupport_introspection_c__pyext-Release-e6cfd63c5534775f72fb.json",
+					"name" : "denso_robot_core_interfaces__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "denso_robot_core_interfaces__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-denso_robot_core_interfaces__rosidl_typesupport_introspection_cpp-Release-09f5bc400269309c4e42.json",
+					"name" : "denso_robot_core_interfaces__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "denso_robot_core_interfaces_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-denso_robot_core_interfaces_uninstall-Release-50bb0f1f9e024e4bb466.json",
+					"name" : "denso_robot_core_interfaces_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Release-a776c8daf6e5a61706f3.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/isg/workspace/denso_ros2_ws/src/build/denso_robot_core_interfaces",
+		"source" : "/home/isg/workspace/denso_ros2_ws/src/denso_robot_drivers_ros2/denso_robot_core_interfaces"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

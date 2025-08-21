@@ -1,0 +1,56 @@
+[0.138s] Invoking command in '/home/isg/workspace/denso_ros2_ws/build/denso_robot_descriptions': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/isg/workspace/denso_ros2_ws/install/denso_robot_description_installer:/home/isg/workspace/denso_ros2_ws/install/camera_publisher:/opt/ros/humble /usr/bin/cmake --build /home/isg/workspace/denso_ros2_ws/build/denso_robot_descriptions -- -j16 -l16
+[0.580s] Invoked command in '/home/isg/workspace/denso_ros2_ws/build/denso_robot_descriptions' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/isg/workspace/denso_ros2_ws/install/denso_robot_description_installer:/home/isg/workspace/denso_ros2_ws/install/camera_publisher:/opt/ros/humble /usr/bin/cmake --build /home/isg/workspace/denso_ros2_ws/build/denso_robot_descriptions -- -j16 -l16
+[0.582s] Invoking command in '/home/isg/workspace/denso_ros2_ws/build/denso_robot_descriptions': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/isg/workspace/denso_ros2_ws/install/denso_robot_description_installer:/home/isg/workspace/denso_ros2_ws/install/camera_publisher:/opt/ros/humble /usr/bin/cmake --install /home/isg/workspace/denso_ros2_ws/build/denso_robot_descriptions
+[0.599s] -- Install configuration: ""
+[0.599s] -- Execute custom install script
+[0.600s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/urdf/denso_robot.urdf.xacro
+[0.601s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/cobotta/meshes/J1.dae
+[0.601s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/cobotta/meshes/J2.dae
+[0.601s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/cobotta/meshes/J3.dae
+[0.601s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/cobotta/meshes/J4.dae
+[0.601s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/cobotta/meshes/J5.dae
+[0.602s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/cobotta/meshes/J6.dae
+[0.602s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/cobotta/meshes/base_link.dae
+[0.602s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/cobotta/urdf/denso_robot.ros2_control.xacro
+[0.602s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/cobotta/urdf/denso_robot_joint_limits.xacro
+[0.602s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/cobotta/urdf/denso_robot_kinematics.xacro
+[0.603s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/cobotta/urdf/denso_robot_macro.xacro
+[0.603s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/cobotta/urdf/denso_robot_transmissions.xacro
+[0.604s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/hsr065a1_n32/meshes/J1.dae
+[0.604s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/hsr065a1_n32/meshes/J2.dae
+[0.604s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/hsr065a1_n32/meshes/J3.dae
+[0.605s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/hsr065a1_n32/meshes/J4.dae
+[0.605s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/hsr065a1_n32/meshes/base_link.dae
+[0.605s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/hsr065a1_n32/urdf/denso_robot.ros2_control.xacro
+[0.606s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/hsr065a1_n32/urdf/denso_robot_joint_limits.xacro
+[0.606s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/hsr065a1_n32/urdf/denso_robot_kinematics.xacro
+[0.607s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/hsr065a1_n32/urdf/denso_robot_macro.xacro
+[0.608s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/hsr065a1_n32/urdf/denso_robot_transmissions.xacro
+[0.608s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/vs060/meshes/J1.dae
+[0.608s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/vs060/meshes/J2.dae
+[0.610s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/vs060/meshes/J3.dae
+[0.610s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/vs060/meshes/J4.dae
+[0.611s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/vs060/meshes/J5.dae
+[0.611s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/vs060/meshes/J6.dae
+[0.613s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/vs060/meshes/base_link.dae
+[0.614s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/vs060/urdf/denso_robot.ros2_control.xacro
+[0.615s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/vs060/urdf/denso_robot_joint_limits.xacro
+[0.616s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/vs060/urdf/denso_robot_kinematics.xacro
+[0.617s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/vs060/urdf/denso_robot_macro.xacro
+[0.618s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/robots/vs060/urdf/denso_robot_transmissions.xacro
+[0.619s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/ament_index/resource_index/package_run_dependencies/denso_robot_descriptions
+[0.620s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/ament_index/resource_index/parent_prefix_path/denso_robot_descriptions
+[0.621s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/environment/ament_prefix_path.sh
+[0.621s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/environment/ament_prefix_path.dsv
+[0.622s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/environment/path.sh
+[0.622s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/environment/path.dsv
+[0.623s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/local_setup.bash
+[0.626s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/local_setup.sh
+[0.627s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/local_setup.zsh
+[0.628s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/local_setup.dsv
+[0.628s] -- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/package.dsv
+[0.638s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/ament_index/resource_index/packages/denso_robot_descriptions
+[0.639s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/cmake/denso_robot_descriptionsConfig.cmake
+[0.642s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/cmake/denso_robot_descriptionsConfig-version.cmake
+[0.643s] -- Up-to-date symlink: /home/isg/workspace/denso_ros2_ws/install/denso_robot_descriptions/share/denso_robot_descriptions/package.xml
+[0.678s] Invoked command in '/home/isg/workspace/denso_ros2_ws/build/denso_robot_descriptions' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/isg/workspace/denso_ros2_ws/install/denso_robot_description_installer:/home/isg/workspace/denso_ros2_ws/install/camera_publisher:/opt/ros/humble /usr/bin/cmake --install /home/isg/workspace/denso_ros2_ws/build/denso_robot_descriptions

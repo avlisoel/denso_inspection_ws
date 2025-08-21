@@ -1,0 +1,4 @@
+/home/isg/workspace/denso_ros2_ws/install/bcap_core/lib/libbcap_client.so
+/home/isg/workspace/denso_ros2_ws/install/bcap_core/lib/libbcap_server.so
+/home/isg/workspace/denso_ros2_ws/install/bcap_core/lib/librac_string.so
+/home/isg/workspace/denso_ros2_ws/install/bcap_core/lib/libtpcomm.so

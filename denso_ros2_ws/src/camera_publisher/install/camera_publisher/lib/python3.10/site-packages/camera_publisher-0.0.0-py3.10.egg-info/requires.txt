@@ -1,0 +1,4 @@
+Pillow
+numpy<2
+opencv-python
+setuptools

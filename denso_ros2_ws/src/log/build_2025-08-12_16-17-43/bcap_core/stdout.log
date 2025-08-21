@@ -1,0 +1,113 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- _USE_LINUX_API=ON
+-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: /home/isg/workspace/denso_ros2_ws/src/denso_robot_drivers_ros2/bcap_core/include/bcap_core;$<BUILD_INTERFACE:/home/isg/workspace/denso_ros2_ws/src/denso_robot_drivers_ros2/bcap_core/include/bcap_core/bCAPClient>;$<BUILD_INTERFACE:/home/isg/workspace/denso_ros2_ws/src/denso_robot_drivers_ros2/bcap_core/include/bcap_core/bCAPServer>;$<BUILD_INTERFACE:/home/isg/workspace/denso_ros2_ws/src/denso_robot_drivers_ros2/bcap_core/include/bcap_core/RACString>;$<BUILD_INTERFACE:/home/isg/workspace/denso_ros2_ws/src/denso_robot_drivers_ros2/bcap_core/include/bcap_core/TPComm>
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'cpplint' to check C / C++ code against the Google style
+-- Configured cpplint exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/isg/workspace/denso_ros2_ws/src/build/bcap_core
+[  6%] [32mBuilding C object CMakeFiles/bcap_client.dir/src/bcap_common.c.o[0m
+[  6%] [32mBuilding C object CMakeFiles/bcap_server.dir/src/dn_com.c.o[0m
+[  9%] [32mBuilding C object CMakeFiles/bcap_client.dir/src/dn_common.c.o[0m
+[ 12%] [32mBuilding C object CMakeFiles/rac_string.dir/src/RACString/rac_string.c.o[0m
+[ 15%] [32mBuilding C object CMakeFiles/tpcomm.dir/src/TPComm/dn_tpcomm.c.o[0m
+[ 18%] [32mBuilding C object CMakeFiles/bcap_server.dir/src/dn_common.c.o[0m
+[ 21%] [32mBuilding C object CMakeFiles/tpcomm.dir/src/dn_common.c.o[0m
+[ 25%] [32mBuilding C object CMakeFiles/bcap_client.dir/src/dn_socket.c.o[0m
+[ 28%] [32mBuilding C object CMakeFiles/bcap_server.dir/src/bCAPServer/bcap_server.c.o[0m
+[ 31%] [32mBuilding C object CMakeFiles/bcap_server.dir/src/bcap_common.c.o[0m
+[ 37%] [32mBuilding C object CMakeFiles/rac_string.dir/src/dn_common.c.o[0m
+[ 40%] [32mBuilding C object CMakeFiles/bcap_client.dir/src/dn_com.c.o[0m
+[ 40%] [32mBuilding C object CMakeFiles/bcap_client.dir/src/bCAPClient/bcap_client.c.o[0m
+[ 43%] [32mBuilding C object CMakeFiles/tpcomm.dir/src/dn_com.c.o[0m
+[ 46%] [32mBuilding C object CMakeFiles/tpcomm.dir/src/dn_device.c.o[0m
+[ 50%] [32mBuilding C object CMakeFiles/bcap_client.dir/src/dn_device.c.o[0m
+[ 53%] [32mBuilding C object CMakeFiles/tpcomm.dir/src/dn_robotalk.c.o[0m
+[ 56%] [32mBuilding C object CMakeFiles/bcap_client.dir/src/dn_tcp.c.o[0m
+[ 59%] [32mBuilding C object CMakeFiles/bcap_client.dir/src/dn_thread.c.o[0m
+[ 62%] [32mBuilding C object CMakeFiles/bcap_client.dir/src/dn_udp.c.o[0m
+[ 65%] [32mBuilding C object CMakeFiles/tpcomm.dir/src/dn_socket.c.o[0m
+[ 68%] [32mBuilding C object CMakeFiles/tpcomm.dir/src/dn_thread.c.o[0m
+[ 71%] [32mBuilding C object CMakeFiles/bcap_server.dir/src/dn_device.c.o[0m
+[ 75%] [32mBuilding C object CMakeFiles/tpcomm.dir/src/dn_udp.c.o[0m
+[ 78%] [32mBuilding C object CMakeFiles/bcap_server.dir/src/dn_socket.c.o[0m
+[ 81%] [32mBuilding C object CMakeFiles/bcap_server.dir/src/dn_thread.c.o[0m
+[ 84%] [32mBuilding C object CMakeFiles/bcap_server.dir/src/dn_udp.c.o[0m
+[ 87%] [32mBuilding C object CMakeFiles/bcap_server.dir/src/dn_tcp.c.o[0m
+[ 90%] [32m[1mLinking C shared library librac_string.so[0m
+[ 93%] [32m[1mLinking C shared library libtpcomm.so[0m
+[ 96%] [32m[1mLinking C shared library libbcap_server.so[0m
+[ 96%] Built target rac_string
+[ 96%] Built target tpcomm
+[ 96%] Built target bcap_server
+[100%] [32m[1mLinking C shared library libbcap_client.so[0m
+[100%] Built target bcap_client
+-- Install configuration: "Release"
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/share/bcap_core/environment/library_path.sh
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/share/bcap_core/environment/library_path.dsv
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/include
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/include/bcap_core
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/include/bcap_core/dn_udp.h
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/include/bcap_core/stdint
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/include/bcap_core/stdint/stdint.h
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/include/bcap_core/dn_additional.h
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/include/bcap_core/RACString
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/include/bcap_core/RACString/rac_string.h
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/include/bcap_core/TPComm
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/include/bcap_core/TPComm/dn_tpcomm.h
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/include/bcap_core/bcap_common.h
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/include/bcap_core/dn_robotalk.h
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/include/bcap_core/dn_common.h
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/include/bcap_core/bCAPClient
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/include/bcap_core/bCAPClient/bcap_client.h
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/include/bcap_core/dn_thread.h
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/include/bcap_core/bCAPServer
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/include/bcap_core/bCAPServer/bcap_server.h
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/include/bcap_core/bCAPServer/bcap_mapid.h
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/include/bcap_core/dn_tcp.h
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/include/bcap_core/dn_device.h
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/include/bcap_core/dn_com.h
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/include/bcap_core/dn_socket.h
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/include/bcap_core/bcap_funcid.h
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/lib/libbcap_client.so
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/lib/libbcap_server.so
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/lib/librac_string.so
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/lib/libtpcomm.so
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/share/ament_index/resource_index/package_run_dependencies/bcap_core
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/share/ament_index/resource_index/parent_prefix_path/bcap_core
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/share/bcap_core/environment/ament_prefix_path.sh
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/share/bcap_core/environment/ament_prefix_path.dsv
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/share/bcap_core/environment/path.sh
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/share/bcap_core/environment/path.dsv
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/share/bcap_core/local_setup.bash
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/share/bcap_core/local_setup.sh
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/share/bcap_core/local_setup.zsh
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/share/bcap_core/local_setup.dsv
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/share/bcap_core/package.dsv
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/share/ament_index/resource_index/packages/bcap_core
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/share/bcap_core/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/share/bcap_core/cmake/ament_cmake_export_libraries-extras.cmake
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/share/bcap_core/cmake/bcap_coreConfig.cmake
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/share/bcap_core/cmake/bcap_coreConfig-version.cmake
+-- Installing: /home/isg/workspace/denso_ros2_ws/src/install/bcap_core/share/bcap_core/package.xml

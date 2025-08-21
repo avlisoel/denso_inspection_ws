@@ -1,0 +1,80 @@
+[0.133s] Invoking command in '/home/isg/workspace/denso_ros2_ws/src/build/ros2_control_demo_example_2': AMENT_PREFIX_PATH=/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_description:/opt/ros/humble /usr/bin/cmake /home/isg/workspace/denso_ros2_ws/src/ros2_control_demos/example_2 -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2
+[0.480s] -- The CXX compiler identification is GNU 11.4.0
+[0.480s] -- Detecting CXX compiler ABI info
+[0.480s] -- Detecting CXX compiler ABI info - done
+[0.480s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.481s] -- Detecting CXX compile features
+[0.486s] -- Detecting CXX compile features - done
+[0.486s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.574s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.686s] -- Found hardware_interface: 2.51.0 (/opt/ros/humble/share/hardware_interface/cmake)
+[0.738s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.745s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.756s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.773s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.795s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.067s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.071s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.104s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[1.174s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.177s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[1.197s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.199s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[1.209s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[1.225s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.234s] -- Looking for C++ include pthread.h
+[1.420s] -- Looking for C++ include pthread.h - found
+[1.420s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.602s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.603s] -- Found Threads: TRUE  
+[1.675s] -- Found ament_cmake_pytest: 1.3.12 (/opt/ros/humble/share/ament_cmake_pytest/cmake)
+[3.138s] -- Configuring done
+[3.214s] -- Generating done
+[3.220s] -- Build files have been written to: /home/isg/workspace/denso_ros2_ws/src/build/ros2_control_demo_example_2
+[3.258s] Invoked command in '/home/isg/workspace/denso_ros2_ws/src/build/ros2_control_demo_example_2' returned '0': AMENT_PREFIX_PATH=/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_description:/opt/ros/humble /usr/bin/cmake /home/isg/workspace/denso_ros2_ws/src/ros2_control_demos/example_2 -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2
+[3.258s] Invoking command in '/home/isg/workspace/denso_ros2_ws/src/build/ros2_control_demo_example_2': AMENT_PREFIX_PATH=/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_description:/opt/ros/humble /usr/bin/cmake --build /home/isg/workspace/denso_ros2_ws/src/build/ros2_control_demo_example_2 -- -j16 -l16
+[10.222s] [ 50%] [32mBuilding CXX object CMakeFiles/ros2_control_demo_example_2.dir/hardware/diffbot_system.cpp.o[0m
+[12.406s] [100%] [32m[1mLinking CXX shared library libros2_control_demo_example_2.so[0m
+[12.663s] [100%] Built target ros2_control_demo_example_2
+[12.741s] Invoked command in '/home/isg/workspace/denso_ros2_ws/src/build/ros2_control_demo_example_2' returned '0': AMENT_PREFIX_PATH=/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_description:/opt/ros/humble /usr/bin/cmake --build /home/isg/workspace/denso_ros2_ws/src/build/ros2_control_demo_example_2 -- -j16 -l16
+[12.748s] Invoking command in '/home/isg/workspace/denso_ros2_ws/src/build/ros2_control_demo_example_2': AMENT_PREFIX_PATH=/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_description:/opt/ros/humble /usr/bin/cmake --install /home/isg/workspace/denso_ros2_ws/src/build/ros2_control_demo_example_2
+[12.893s] -- Install configuration: "Release"
+[12.893s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/ros2_control_demo_example_2.xml
+[12.894s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/include/ros2_control_demo_example_2
+[12.894s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/include/ros2_control_demo_example_2/ros2_control_demo_example_2
+[12.897s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/include/ros2_control_demo_example_2/ros2_control_demo_example_2/diffbot_system.hpp
+[12.897s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/launch
+[12.897s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/launch/view_robot.launch.py
+[12.897s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/ros2_control
+[12.897s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/ros2_control/diffbot.ros2_control.xacro
+[12.897s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/urdf
+[12.897s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/urdf/diffbot.urdf.xacro
+[12.897s] -- Up-to-date: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/launch
+[12.897s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/launch/diffbot.launch.py
+[12.897s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/config
+[12.897s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/config/diffbot_controllers.yaml
+[12.897s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/lib/libros2_control_demo_example_2.so
+[12.897s] -- Set runtime path of "/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/lib/libros2_control_demo_example_2.so" to ""
+[12.897s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/environment/library_path.sh
+[12.898s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/environment/library_path.dsv
+[12.898s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ament_index/resource_index/package_run_dependencies/ros2_control_demo_example_2
+[12.898s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ament_index/resource_index/parent_prefix_path/ros2_control_demo_example_2
+[12.898s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/environment/ament_prefix_path.sh
+[12.898s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/environment/ament_prefix_path.dsv
+[12.898s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/environment/path.sh
+[12.898s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/environment/path.dsv
+[12.898s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/local_setup.bash
+[12.898s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/local_setup.sh
+[12.898s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/local_setup.zsh
+[12.898s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/local_setup.dsv
+[12.898s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/package.dsv
+[12.898s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ament_index/resource_index/packages/ros2_control_demo_example_2
+[12.898s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/ros2_control_demo_example_2
+[12.898s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/cmake/export_ros2_control_demo_example_2Export.cmake
+[12.898s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/cmake/export_ros2_control_demo_example_2Export-release.cmake
+[12.898s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/cmake/ament_cmake_export_targets-extras.cmake
+[12.898s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/cmake/ament_cmake_export_dependencies-extras.cmake
+[12.899s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/cmake/ros2_control_demo_example_2Config.cmake
+[12.899s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/cmake/ros2_control_demo_example_2Config-version.cmake
+[12.899s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/package.xml
+[12.924s] Invoked command in '/home/isg/workspace/denso_ros2_ws/src/build/ros2_control_demo_example_2' returned '0': AMENT_PREFIX_PATH=/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demo_description:/opt/ros/humble /usr/bin/cmake --install /home/isg/workspace/denso_ros2_ws/src/build/ros2_control_demo_example_2

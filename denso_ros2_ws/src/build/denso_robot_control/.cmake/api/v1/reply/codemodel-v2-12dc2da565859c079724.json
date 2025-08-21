@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-3243448f9b0a4b3f5af0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "denso_robot_control",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "denso_robot_control_exec::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-denso_robot_control_exec-Release-dd0117104fa79de51adb.json",
+					"name" : "denso_robot_control_exec",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "denso_robot_control_plugin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-denso_robot_control_plugin-Release-25ce839c6bf074790e49.json",
+					"name" : "denso_robot_control_plugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "denso_robot_control_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-denso_robot_control_uninstall-Release-8bd8da6e6d1007b10b6d.json",
+					"name" : "denso_robot_control_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Release-899297f6ecd9305f2c08.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/isg/workspace/denso_ros2_ws/src/build/denso_robot_control",
+		"source" : "/home/isg/workspace/denso_ros2_ws/src/denso_robot_drivers_ros2/denso_robot_control"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

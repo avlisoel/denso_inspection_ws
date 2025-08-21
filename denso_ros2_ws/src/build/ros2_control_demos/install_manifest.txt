@@ -1,0 +1,15 @@
+/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demos/share/ament_index/resource_index/package_run_dependencies/ros2_control_demos
+/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demos/share/ament_index/resource_index/parent_prefix_path/ros2_control_demos
+/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demos/share/ros2_control_demos/environment/ament_prefix_path.sh
+/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demos/share/ros2_control_demos/environment/ament_prefix_path.dsv
+/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demos/share/ros2_control_demos/environment/path.sh
+/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demos/share/ros2_control_demos/environment/path.dsv
+/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demos/share/ros2_control_demos/local_setup.bash
+/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demos/share/ros2_control_demos/local_setup.sh
+/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demos/share/ros2_control_demos/local_setup.zsh
+/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demos/share/ros2_control_demos/local_setup.dsv
+/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demos/share/ros2_control_demos/package.dsv
+/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demos/share/ament_index/resource_index/packages/ros2_control_demos
+/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demos/share/ros2_control_demos/cmake/ros2_control_demosConfig.cmake
+/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demos/share/ros2_control_demos/cmake/ros2_control_demosConfig-version.cmake
+/home/isg/workspace/denso_ros2_ws/src/install/ros2_control_demos/share/ros2_control_demos/package.xml

@@ -1,0 +1,104 @@
+[0.215s] Invoking command in '/home/isg/workspace/denso_ros2_ws/src/build/denso_robot_moveit_demo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/isg/workspace/denso_ros2_ws/src/denso_robot_drivers_ros2/denso_robot_moveit_demo -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo
+[0.263s] -- The C compiler identification is GNU 11.4.0
+[0.313s] -- The CXX compiler identification is GNU 11.4.0
+[0.320s] -- Detecting C compiler ABI info
+[0.383s] -- Detecting C compiler ABI info - done
+[0.389s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.390s] -- Detecting C compile features
+[0.390s] -- Detecting C compile features - done
+[0.393s] -- Detecting CXX compiler ABI info
+[0.470s] -- Detecting CXX compiler ABI info - done
+[0.477s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.477s] -- Detecting CXX compile features
+[0.477s] -- Detecting CXX compile features - done
+[0.479s] -- Found moveit_common: 2.5.9 (/opt/ros/humble/share/moveit_common/cmake)
+[0.481s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.609s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.770s] -- Found moveit_ros_planning_interface: 2.5.9 (/opt/ros/humble/share/moveit_ros_planning_interface/cmake)
+[1.072s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: date_time filesystem program_options system thread 
+[1.125s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.132s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.144s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.158s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.181s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.441s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: chrono date_time filesystem iostreams program_options regex serialization system thread 
+[1.500s] -- Found parameter_traits: 0.5.0 (/opt/ros/humble/share/parameter_traits/cmake)
+[1.552s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.553s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.674s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.707s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.763s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.774s] -- Found Threads: TRUE  
+[1.833s] -- Found rclcpp_lifecycle: 16.0.14 (/opt/ros/humble/share/rclcpp_lifecycle/cmake)
+[1.865s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: filesystem 
+[1.988s] -- library: /usr/lib/x86_64-linux-gnu/libcurl.so
+[2.027s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[2.027s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[2.193s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system filesystem date_time program_options thread chrono 
+[2.230s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: thread system filesystem regex date_time program_options 
+[2.258s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system filesystem date_time program_options thread 
+[2.299s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.393s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.393s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.393s] -- Configured cppcheck include dirs: 
+[2.393s] -- Configured cppcheck exclude dirs and/or files: 
+[2.395s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.395s] -- Configured cpplint exclude dirs and/or files: 
+[2.395s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.395s] -- Added test 'lint_cmake' to check CMake code style
+[2.396s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.397s] -- Added test 'uncrustify' to check C / C++ code style
+[2.398s] -- Configured uncrustify additional arguments: 
+[2.398s] -- Added test 'xmllint' to check XML markup files
+[2.400s] -- Configuring done
+[2.476s] -- Generating done
+[2.500s] -- Build files have been written to: /home/isg/workspace/denso_ros2_ws/src/build/denso_robot_moveit_demo
+[2.529s] Invoked command in '/home/isg/workspace/denso_ros2_ws/src/build/denso_robot_moveit_demo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/isg/workspace/denso_ros2_ws/src/denso_robot_drivers_ros2/denso_robot_moveit_demo -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo
+[2.530s] Invoking command in '/home/isg/workspace/denso_ros2_ws/src/build/denso_robot_moveit_demo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/isg/workspace/denso_ros2_ws/src/build/denso_robot_moveit_demo -- -j16 -l16
+[3.944s] [ 16%] [32mBuilding CXX object CMakeFiles/denso_robot_moveit_demo.dir/src/denso_robot_moveit_demo.cpp.o[0m
+[3.945s] [ 50%] [32mBuilding CXX object CMakeFiles/denso_robot_moveit_pickandplace.dir/src/denso_robot_moveit_pickandplace.cpp.o[0m
+[3.945s] [ 50%] [32mBuilding CXX object CMakeFiles/denso_robot_moveit_pickandplace_scara.dir/src/denso_robot_moveit_pickandplace_scara.cpp.o[0m
+[17.074s] [ 66%] [32m[1mLinking CXX executable denso_robot_moveit_pickandplace[0m
+[17.296s] [ 83%] [32m[1mLinking CXX executable denso_robot_moveit_demo[0m
+[17.372s] [ 83%] Built target denso_robot_moveit_pickandplace
+[17.579s] [ 83%] Built target denso_robot_moveit_demo
+[17.733s] [100%] [32m[1mLinking CXX executable denso_robot_moveit_pickandplace_scara[0m
+[18.039s] [100%] Built target denso_robot_moveit_pickandplace_scara
+[18.054s] Invoked command in '/home/isg/workspace/denso_ros2_ws/src/build/denso_robot_moveit_demo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/isg/workspace/denso_ros2_ws/src/build/denso_robot_moveit_demo -- -j16 -l16
+[18.056s] Invoking command in '/home/isg/workspace/denso_ros2_ws/src/build/denso_robot_moveit_demo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/isg/workspace/denso_ros2_ws/src/build/denso_robot_moveit_demo
+[18.066s] -- Install configuration: "Release"
+[18.066s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/lib/denso_robot_moveit_demo/denso_robot_moveit_demo
+[18.067s] -- Set runtime path of "/home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/lib/denso_robot_moveit_demo/denso_robot_moveit_demo" to ""
+[18.067s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/lib/denso_robot_moveit_demo/denso_robot_moveit_pickandplace
+[18.068s] -- Set runtime path of "/home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/lib/denso_robot_moveit_demo/denso_robot_moveit_pickandplace" to ""
+[18.068s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/lib/denso_robot_moveit_demo/denso_robot_moveit_pickandplace_scara
+[18.069s] -- Set runtime path of "/home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/lib/denso_robot_moveit_demo/denso_robot_moveit_pickandplace_scara" to ""
+[18.069s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/denso_robot_moveit_demo/launch
+[18.069s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/denso_robot_moveit_demo/launch/denso_robot_moveit_pickandplace_scara.launch.py
+[18.069s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/denso_robot_moveit_demo/launch/denso_robot_moveit_pickandplace.launch.py
+[18.069s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/denso_robot_moveit_demo/launch/denso_robot_moveit_demo.launch.py
+[18.069s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/denso_robot_moveit_demo/config
+[18.069s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/denso_robot_moveit_demo/config/denso_robot_moveit_demo.yaml
+[18.070s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/ament_index/resource_index/package_run_dependencies/denso_robot_moveit_demo
+[18.070s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/ament_index/resource_index/parent_prefix_path/denso_robot_moveit_demo
+[18.070s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/denso_robot_moveit_demo/environment/ament_prefix_path.sh
+[18.071s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/denso_robot_moveit_demo/environment/ament_prefix_path.dsv
+[18.071s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/denso_robot_moveit_demo/environment/path.sh
+[18.071s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/denso_robot_moveit_demo/environment/path.dsv
+[18.071s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/denso_robot_moveit_demo/local_setup.bash
+[18.071s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/denso_robot_moveit_demo/local_setup.sh
+[18.072s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/denso_robot_moveit_demo/local_setup.zsh
+[18.072s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/denso_robot_moveit_demo/local_setup.dsv
+[18.072s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/denso_robot_moveit_demo/package.dsv
+[18.072s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/ament_index/resource_index/packages/denso_robot_moveit_demo
+[18.073s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/denso_robot_moveit_demo/cmake/export_denso_robot_moveit_demoExport.cmake
+[18.073s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/denso_robot_moveit_demo/cmake/export_denso_robot_moveit_demoExport-release.cmake
+[18.073s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/denso_robot_moveit_demo/cmake/export_denso_robot_moveit_pickandplaceExport.cmake
+[18.073s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/denso_robot_moveit_demo/cmake/export_denso_robot_moveit_pickandplaceExport-release.cmake
+[18.073s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/denso_robot_moveit_demo/cmake/export_denso_robot_moveit_pickandplace_scaraExport.cmake
+[18.074s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/denso_robot_moveit_demo/cmake/export_denso_robot_moveit_pickandplace_scaraExport-release.cmake
+[18.074s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/denso_robot_moveit_demo/cmake/ament_cmake_export_targets-extras.cmake
+[18.074s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/denso_robot_moveit_demo/cmake/denso_robot_moveit_demoConfig.cmake
+[18.074s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/denso_robot_moveit_demo/cmake/denso_robot_moveit_demoConfig-version.cmake
+[18.075s] -- Installing: /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_moveit_demo/share/denso_robot_moveit_demo/package.xml
+[18.078s] Invoked command in '/home/isg/workspace/denso_ros2_ws/src/build/denso_robot_moveit_demo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/isg/workspace/denso_ros2_ws/src/build/denso_robot_moveit_demo

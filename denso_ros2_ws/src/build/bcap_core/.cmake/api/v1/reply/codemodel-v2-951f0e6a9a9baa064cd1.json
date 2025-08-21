@@ -1,0 +1,106 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-8b4b0b22f8d3dc213095.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "bcap_core",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bcap_client::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bcap_client-Release-bfd176b17c99bbeb10c9.json",
+					"name" : "bcap_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bcap_core_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bcap_core_uninstall-Release-566eab56dc6167f35a43.json",
+					"name" : "bcap_core_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bcap_server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bcap_server-Release-6ac6f15d0ae338c04900.json",
+					"name" : "bcap_server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rac_string::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rac_string-Release-305d0eb2a2169c216a13.json",
+					"name" : "rac_string",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tpcomm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tpcomm-Release-c7b4d9a9310168e2d971.json",
+					"name" : "tpcomm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Release-e1e92c995de98a939763.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/isg/workspace/denso_ros2_ws/src/build/bcap_core",
+		"source" : "/home/isg/workspace/denso_ros2_ws/src/denso_robot_drivers_ros2/bcap_core"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

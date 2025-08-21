@@ -1,0 +1,83 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found hardware_interface: 2.51.0 (/opt/ros/humble/share/hardware_interface/cmake)
+-- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+-- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+-- Found FastRTPS: /opt/ros/humble/include  
+-- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+-- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Found rclcpp_action: 16.0.14 (/opt/ros/humble/share/rclcpp_action/cmake)
+-- Found rclcpp_components: 16.0.14 (/opt/ros/humble/share/rclcpp_components/cmake)
+-- Found bcap_core: 1.2.0 (/home/isg/workspace/denso_ros2_ws/install/bcap_core/share/bcap_core/cmake)
+-- Found bcap_service: 1.2.0 (/home/isg/workspace/denso_ros2_ws/install/bcap_service/share/bcap_service/cmake)
+-- Found bcap_service_interfaces: 1.2.0 (/home/isg/workspace/denso_ros2_ws/install/bcap_service_interfaces/share/bcap_service_interfaces/cmake)
+-- Found denso_robot_core: 1.2.0 (/home/isg/workspace/denso_ros2_ws/install/denso_robot_core/share/denso_robot_core/cmake)
+-- Found denso_robot_core_interfaces: 1.2.0 (/home/isg/workspace/denso_ros2_ws/install/denso_robot_core_interfaces/share/denso_robot_core_interfaces/cmake)
+-- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/isg/workspace/denso_ros2_ws/build/denso_robot_control
+[ 40%] [32mBuilding CXX object CMakeFiles/denso_robot_control_plugin.dir/src/denso_robot_hw.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/denso_robot_control_exec.dir/src/denso_robot_control.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/denso_robot_control_plugin.dir/src/denso_robot_control.cpp.o[0m
+[ 80%] [32m[1mLinking CXX shared library libdenso_robot_control_plugin.so[0m
+[100%] [32m[1mLinking CXX executable denso_robot_control_exec[0m
+[100%] Built target denso_robot_control_plugin
+[100%] Built target denso_robot_control_exec
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_control/share/denso_robot_control//denso_hardware_interface_plugin.xml
+-- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_control/lib/libdenso_robot_control_plugin.so
+-- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_control/include/denso_robot_control/denso_robot_control.hpp
+-- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_control/include/denso_robot_control/denso_robot_hw.hpp
+-- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_control/share/denso_robot_control//launch/denso_robot_control.launch.py
+-- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_control/share/denso_robot_control/environment/library_path.sh
+-- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_control/share/denso_robot_control/environment/library_path.dsv
+-- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_control/share/ament_index/resource_index/package_run_dependencies/denso_robot_control
+-- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_control/share/ament_index/resource_index/parent_prefix_path/denso_robot_control
+-- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_control/share/denso_robot_control/environment/ament_prefix_path.sh
+-- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_control/share/denso_robot_control/environment/ament_prefix_path.dsv
+-- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_control/share/denso_robot_control/environment/path.sh
+-- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_control/share/denso_robot_control/environment/path.dsv
+-- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_control/share/denso_robot_control/local_setup.bash
+-- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_control/share/denso_robot_control/local_setup.sh
+-- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_control/share/denso_robot_control/local_setup.zsh
+-- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_control/share/denso_robot_control/local_setup.dsv
+-- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_control/share/denso_robot_control/package.dsv
+-- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_control/share/ament_index/resource_index/packages/denso_robot_control
+-- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_control/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/denso_robot_control
+-- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_control/share/denso_robot_control/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_control/share/denso_robot_control/cmake/ament_cmake_export_libraries-extras.cmake
+-- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_control/share/denso_robot_control/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_control/share/denso_robot_control/cmake/denso_robot_controlConfig.cmake
+-- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_control/share/denso_robot_control/cmake/denso_robot_controlConfig-version.cmake
+-- Symlinking: /home/isg/workspace/denso_ros2_ws/install/denso_robot_control/share/denso_robot_control/package.xml
+-- Installing: /home/isg/workspace/denso_ros2_ws/install/denso_robot_control/lib/denso_robot_control/denso_robot_control_exec
+-- Set runtime path of "/home/isg/workspace/denso_ros2_ws/install/denso_robot_control/lib/denso_robot_control/denso_robot_control_exec" to ""

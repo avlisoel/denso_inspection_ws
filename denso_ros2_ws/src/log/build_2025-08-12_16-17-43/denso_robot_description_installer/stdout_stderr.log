@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/denso_robot_description_installer/denso_robot_description_installer.egg-info
+writing ../../build/denso_robot_description_installer/denso_robot_description_installer.egg-info/PKG-INFO
+writing dependency_links to ../../build/denso_robot_description_installer/denso_robot_description_installer.egg-info/dependency_links.txt
+writing entry points to ../../build/denso_robot_description_installer/denso_robot_description_installer.egg-info/entry_points.txt
+writing requirements to ../../build/denso_robot_description_installer/denso_robot_description_installer.egg-info/requires.txt
+writing top-level names to ../../build/denso_robot_description_installer/denso_robot_description_installer.egg-info/top_level.txt
+writing manifest file '../../build/denso_robot_description_installer/denso_robot_description_installer.egg-info/SOURCES.txt'
+reading manifest file '../../build/denso_robot_description_installer/denso_robot_description_installer.egg-info/SOURCES.txt'
+writing manifest file '../../build/denso_robot_description_installer/denso_robot_description_installer.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/isg/workspace/denso_ros2_ws/src/build/denso_robot_description_installer/build
+creating /home/isg/workspace/denso_ros2_ws/src/build/denso_robot_description_installer/build/lib
+creating /home/isg/workspace/denso_ros2_ws/src/build/denso_robot_description_installer/build/lib/denso_robot_description_installer
+copying denso_robot_description_installer/update_joint_limits.py -> /home/isg/workspace/denso_ros2_ws/src/build/denso_robot_description_installer/build/lib/denso_robot_description_installer
+copying denso_robot_description_installer/install_robot_description.py -> /home/isg/workspace/denso_ros2_ws/src/build/denso_robot_description_installer/build/lib/denso_robot_description_installer
+copying denso_robot_description_installer/__init__.py -> /home/isg/workspace/denso_ros2_ws/src/build/denso_robot_description_installer/build/lib/denso_robot_description_installer
+running install
+running install_lib
+creating /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_description_installer/lib/python3.10/site-packages/denso_robot_description_installer
+copying /home/isg/workspace/denso_ros2_ws/src/build/denso_robot_description_installer/build/lib/denso_robot_description_installer/update_joint_limits.py -> /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_description_installer/lib/python3.10/site-packages/denso_robot_description_installer
+copying /home/isg/workspace/denso_ros2_ws/src/build/denso_robot_description_installer/build/lib/denso_robot_description_installer/install_robot_description.py -> /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_description_installer/lib/python3.10/site-packages/denso_robot_description_installer
+copying /home/isg/workspace/denso_ros2_ws/src/build/denso_robot_description_installer/build/lib/denso_robot_description_installer/__init__.py -> /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_description_installer/lib/python3.10/site-packages/denso_robot_description_installer
+byte-compiling /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_description_installer/lib/python3.10/site-packages/denso_robot_description_installer/update_joint_limits.py to update_joint_limits.cpython-310.pyc
+byte-compiling /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_description_installer/lib/python3.10/site-packages/denso_robot_description_installer/install_robot_description.py to install_robot_description.cpython-310.pyc
+byte-compiling /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_description_installer/lib/python3.10/site-packages/denso_robot_description_installer/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_description_installer/share/ament_index
+creating /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_description_installer/share/ament_index/resource_index
+creating /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_description_installer/share/ament_index/resource_index/packages
+copying resource/denso_robot_description_installer -> /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_description_installer/share/ament_index/resource_index/packages
+copying package.xml -> /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_description_installer/share/denso_robot_description_installer
+running install_egg_info
+Copying ../../build/denso_robot_description_installer/denso_robot_description_installer.egg-info to /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_description_installer/lib/python3.10/site-packages/denso_robot_description_installer-1.2.0-py3.10.egg-info
+running install_scripts
+Installing install_robot_description script to /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_description_installer/lib/denso_robot_description_installer
+Installing update_joint_limits script to /home/isg/workspace/denso_ros2_ws/src/install/denso_robot_description_installer/lib/denso_robot_description_installer
+writing list of installed files to '/home/isg/workspace/denso_ros2_ws/src/build/denso_robot_description_installer/install.log'
