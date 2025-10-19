@@ -1,4 +1,0 @@
-source;share/denso_robot_core_interfaces/local_setup.bash
-source;share/denso_robot_core_interfaces/local_setup.dsv
-source;share/denso_robot_core_interfaces/local_setup.sh
-source;share/denso_robot_core_interfaces/local_setup.zsh

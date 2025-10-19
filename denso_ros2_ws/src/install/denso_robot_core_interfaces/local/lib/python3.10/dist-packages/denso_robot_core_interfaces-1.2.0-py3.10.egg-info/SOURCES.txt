@@ -1,6 +1,0 @@
-setup.py
-denso_robot_core_interfaces/__init__.py
-denso_robot_core_interfaces.egg-info/PKG-INFO
-denso_robot_core_interfaces.egg-info/SOURCES.txt
-denso_robot_core_interfaces.egg-info/dependency_links.txt
-denso_robot_core_interfaces.egg-info/top_level.txt

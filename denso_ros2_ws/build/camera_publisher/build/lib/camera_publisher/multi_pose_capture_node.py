@@ -25,7 +25,7 @@ class MultiPoseCapture(Node):
             [deg(29.084), deg(-7.588), deg(111.202), deg(0.076), deg(70.416), deg(29.052)],    # Pose 3
         ]
 
-        # Initialize COBOTTA controller (you’ll need to define this)
+        # Initialize COBOTTA controller 
         self.robot = RobotInterface(self)
         self.get_logger().info("MultiPoseCapture node started.")
 
